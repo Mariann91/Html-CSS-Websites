@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ .logo {
+    width: 200px;
+ }
+
+ nav {
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .land-page {
+    width: 100%;
+    min-height: 100vh;
+    background-image:url(images/Bulgarian-Flag.jpg);
+    background-size: cover;
+    background-position: center;
+ }
+
+ .container {
+    margin-left: 35%;
+    margin-top: 10%;
+ }
